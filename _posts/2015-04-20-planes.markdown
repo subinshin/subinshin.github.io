@@ -1,7 +1,6 @@
 ---
 title:  "Spring"
 subtitle: "hologachi"
-avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2015-04-20 12:12:12
 ---
